@@ -5,9 +5,87 @@
     <description></description>
     <link>http://groundnuty.github.io/zeppelin-grunt/</link>
     <atom:link href="http://groundnuty.github.io/zeppelin-grunt/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 09 Jul 2017 23:07:55 +0200</pubDate>
-    <lastBuildDate>Sun, 09 Jul 2017 23:07:55 +0200</lastBuildDate>
+    <pubDate>Mon, 10 Jul 2017 00:20:47 +0200</pubDate>
+    <lastBuildDate>Mon, 10 Jul 2017 00:20:47 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>CS3 2018 Announced!</title>
+        <description>&lt;p&gt;This year event will take place in cultural capital of Poland - Kraków. Being a unique European city in Poland, Kraków come through World War II essentially undamaged, and its assembly of monuments has since been hailed as one of Europe’s most compelling by UNESCO. The city’s Old Town (Stare Miasto) swarms with visitors in summer, but retains an atmosphere of fin-de-siècle stateliness, its streets a cavalcade of churches and palaces. A university centre, Kraków has a tangible buzz of arty youthfulness and enjoys a dynamic nightlife. So take your time to a few days in one of the last hidden gems in the Europe in a company of experts and technical geeks.&lt;/p&gt;
+
+&lt;p&gt;So should you also be excited? Well yes… and here’s why!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Attendance&lt;/strong&gt;: we’re expecting over 200 attendees&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Topic&lt;/strong&gt;: more than 24 hours cloud and file synchronization related technologies&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Date&lt;/strong&gt;: 29-31 of January, 3 days of talks and networking&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Venue&lt;/strong&gt;: Department of Computer Science AGH&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Speakers&lt;/strong&gt;: we’re in the process of finalising the list of speakers&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 09 Jul 2017 09:00:00 +0000</pubDate>
+        <link>http://groundnuty.github.io/zeppelin-grunt/blog/hello-world</link>
+        <guid isPermaLink="true">http://groundnuty.github.io/zeppelin-grunt/blog/hello-world</guid>
+        
+        
+            
+        
+            
+            <category>en</category>
+            
+        
+      </item>
+    
+      <item>
+        <title>Call for Abstracts</title>
+        <description>&lt;p&gt;Workshop on Cloud Services for File Synchronisation and Sharing (CS3) 2018 will be held 29-31st of Jaunary in a historic city of Kraków. If you want to be part of this great event as a speaker please read on.&lt;/p&gt;
+
+&lt;h4 id=&quot;presenters--who-should-speak-at-the-cs3-workstop&quot;&gt;Presenters – who should speak at the CS3 Workstop?&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;research institutions cloud services for file synchronisation relevant activities&lt;/li&gt;
+  &lt;li&gt;developers (freelance and hired)&lt;/li&gt;
+  &lt;li&gt;companies developing software (apps, tools, frameworks etc.)&lt;/li&gt;
+  &lt;li&gt;companies, organisations and individuals using cloud services for file synchronisation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you belong to one of those groups you are cordially invited to submit a talk proposal (or a number of proposals). An independent program committee assesses the proposals and selects the actual conference talks.&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;themes-and-topics--what-do-we-expect&quot;&gt;Themes and topics – what do we expect?&lt;/h4&gt;
+&lt;p&gt;Our team prepared set of interesting topics in but if you have any cool idea you want to share not from this list, feel free to submit it as well.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;protocols for file sharing and synchronization&lt;/li&gt;
+  &lt;li&gt;reliability and consistency of file synchronization services&lt;/li&gt;
+  &lt;li&gt;efficiency and scalability of file synchronization services&lt;/li&gt;
+  &lt;li&gt;file-sharing semantics&lt;/li&gt;
+  &lt;li&gt;data analysis workflows&lt;/li&gt;
+  &lt;li&gt;backend storage technologies&lt;/li&gt;
+  &lt;li&gt;federated access to cloud storage&lt;/li&gt;
+  &lt;li&gt;integration of large data repositories&lt;/li&gt;
+  &lt;li&gt;mobile access to data&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;please-submit-your-proposals-herehttpswwwexamplcom&quot;&gt;Please submit your proposals &lt;a href=&quot;https://www.exampl.com&quot;&gt;here&lt;/a&gt;.&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Deadline&lt;/strong&gt; and other important dates can be found &lt;a href=&quot;https://www.exampl.com&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Please note:&lt;/strong&gt; There is no guarantee that a submission will be put onto the conference agenda!&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;any-questions&quot;&gt;Any questions?&lt;/h4&gt;
+&lt;p&gt;Email organizers at &lt;a href=&quot;mailto:cs3-surfnet2018@cern.ch&quot;&gt;cs3-surfnet2018@cern.ch&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 09 Jul 2017 09:00:00 +0000</pubDate>
+        <link>http://groundnuty.github.io/zeppelin-grunt/blog/call-for-papers</link>
+        <guid isPermaLink="true">http://groundnuty.github.io/zeppelin-grunt/blog/call-for-papers</guid>
+        
+        
+            
+        
+            
+            <category>en</category>
+            
+        
+      </item>
     
   </channel>
 </rss>
