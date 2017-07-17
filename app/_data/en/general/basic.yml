@@ -1,27 +1,27 @@
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+title: "Workshop on Cloud Services for Synchronisation and Sharing 2018"
+email: "cs3-surfnet2018@cern.ch"
+description: "Workshop on Cloud Services for Synchronisation and Sharing"
 enablePreloader: false
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+metaKeywords: "sharing, synchronization, data, science, krakow"
+twitterAccount: ""
+socialImageSrcGooglePlus: ""
+socialImageSrcTwitter: ""
+socialImageSrcFacebook: ""
 themeColor: "#03a9f4"
 
 # Organizer Info
 organizerName: "GDG Lviv"
 organizerAlternateName: "Google Developer Group Lviv"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerEmail: "cs3-surfnet2018@cern.ch"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "https://www.example.com"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
+c4pUrl: "https://www.example.com"
 c4pButton: "Become a speaker"
 
 # Varibles
@@ -32,4 +32,3 @@ disqusShortName: "devfestua"
 # i18n
 languages:
   en: English
-  uk: Українська

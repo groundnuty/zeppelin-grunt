@@ -1,10 +1,7 @@
 - 
-  group: "Main organizer"
   elements: 
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-- 
-  group: "Co-organizers"
-  elements: 
-    - {name: "GDG Kyiv", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.svg"}
-    - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
-    - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}
+    - {name: "ETH", description: "ETH", link: "https://www.ethz.ch", imageUrl: "eth.png"}
+    - {name: "Cyfronet", description: "Cyfronet", link: "https://www.cyfronet.krakow.pl", imageUrl: "cyfronet.jpg"}
+    - {name: "CERN", description: "CERN", link: "https://cern.ch", imageUrl: "cern.jpg"}
+    - {name: "SURFsara", description: "SURFsara", link: "https://www.surf.nl", imageUrl: "surfsara.png"}
+    - {name: "AARNet", description: "AARNet", link: "https://www.surf.nl", imageUrl: "aarnet.png"}
