@@ -11,7 +11,7 @@ module.exports = function(grunt) {
             source: 'app',
             dist: 'dist',
             baseurl: 'zeppelin-grunt',
-            git_repo: 'git@github.com:groundnuty/zeppelin-grunt.git',
+            git_repo: 'git@github.com:cs3-worhshop/krakow-2018.git',
             branch: 'gh-pages'
         },
         watch: {

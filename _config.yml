@@ -14,8 +14,8 @@ show_drafts: true
 markdown: kramdown
 
 # Site settings
-baseurl: "/zeppelin-grunt"
-url: "http://groundnuty.github.io"
+baseurl: "http://cs3.cyfronet.pl"
+url: "http://cs3.cyfronet.pl"
 permalink: '/blog/:title'
 
 # i18n
