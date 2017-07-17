@@ -7,7 +7,7 @@ offers:
   priceCurrency: "EUR"
   ticketsNumber: ""
   ribbon: ""
-  buyButtonLink: "https://www.example.com"
+  buyButtonLink: "https://goo.gl/forms/VuLbeMXEaVZcXYff1"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-25T10:00"
@@ -23,7 +23,7 @@ offers:
   ticketsNumber: ""
   ribbon: ""
   featured: true
-  buyButtonLink: "https://www.example.com"
+  buyButtonLink: "https://goo.gl/forms/VuLbeMXEaVZcXYff1"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-10-01T00:00"

@@ -16,6 +16,6 @@ links:
     - {link: "https://cs3.ethz.ch/", text: "Zurich 2016"}
     - {link: "https://indico.cern.ch/event/336753/", text: "Geneva 2014"}
 bottomLinks:
- - {link: "https://www.example.com", text: "Register"}
+ - {link: "https://goo.gl/forms/VuLbeMXEaVZcXYff1", text: "Register"}
 rightButtons:
- - {link: "https://www.example.com", text: "Register"}
+ - {link: "https://goo.gl/forms/VuLbeMXEaVZcXYff1", text: "Register"}
