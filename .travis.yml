@@ -10,6 +10,7 @@ install:
 - travis_retry npm install
 script:
 - grunt build:dist --force
+- ls -l 
 deploy:
 - provider: pages
   skip_cleanup: true
