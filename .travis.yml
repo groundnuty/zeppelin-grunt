@@ -20,7 +20,7 @@ deploy:
     tags: true
 - provider: pages
   repo: "${TRAVIS_REPO_SLUG}-draft"
-  local_dir: dist/zeppelin-grunt
+  #local_dir: dist/zeppelin-grunt
   skip_cleanup: true
   github_token: "$GITHUB_TOKEN"
   on:
