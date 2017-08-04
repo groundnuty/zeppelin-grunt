@@ -1,0 +1,36 @@
+sudo: false
+language: node_js
+node_js:
+  - "8"
+
+before_install:
+  - rvm use 2.4.0 --install --fuzzy
+
+install:
+  - travis_retry gem install --no-document jekyll
+  - travis_retry npm install -g grunt-cli
+  - travis_retry npm install
+  
+script:
+  - grunt serve:dist --force
+
+deploy:
+  # Deploy tagged version to this repo gh-pages.
+  # Consider this a production release.
+  - provider: pages
+    skip_cleanup: true
+    local_dir: dist/zeppelin-grunt
+    github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
+    on:
+      branch: master
+      tags: true
+      
+  # Deploy current master to gh-pages at <this-repo>-draft repo.
+  # Consider this a development release.
+  - provider: pages
+    repo: ${TRAVIS_REPO_SLUG}-draft
+    local_dir: dist/zeppelin-grunt
+    skip_cleanup: true
+    github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
+    on:
+      branch: master
