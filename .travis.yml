@@ -13,14 +13,14 @@ script:
 deploy:
 - provider: pages
   skip_cleanup: true
-  local_dir: dist/zeppelin-grunt
+  #local_dir: dist/zeppelin-grunt
   github_token: "$GITHUB_TOKEN"
   on:
     branch: master
     tags: true
 - provider: pages
   repo: "${TRAVIS_REPO_SLUG}-draft"
-  local_dir: dist/zeppelin-grunt
+  #local_dir: dist/zeppelin-grunt
   skip_cleanup: true
   github_token: "$GITHUB_TOKEN"
   on:
