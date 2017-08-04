@@ -8,11 +8,11 @@ before_install:
 
 install:
   - travis_retry gem install --no-document jekyll
-  - travis_retry npm install -g grunt-cli
+  - travis_retry npm install -g grunt-cli bower
   - travis_retry npm install
   
 script:
-  - grunt serve:dist --force
+  - grunt build:dist --force
 
 deploy:
   # Deploy tagged version to this repo gh-pages.
