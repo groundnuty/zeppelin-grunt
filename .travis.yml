@@ -6,9 +6,9 @@ before_install:
 - rvm use 2.4.0 --install --fuzzy
 install:
 - travis_retry bundle install
-- travis_retry gem install jekyll
-- bundle exec jekyll -v
-- travis_retry gem install colorator -v 0.1
+#- travis_retry gem install jekyll
+#- bundle exec jekyll -v
+#- travis_retry gem install colorator -v 0.1
 - travis_retry npm install -g grunt-cli bower
 - travis_retry npm install
 script:
