@@ -12,6 +12,7 @@ install:
 - travis_retry bundle install
 - travis_retry npm install
 - travis_retry bower install
+- travis_retry npm rebuild node-sass
 script:
 - grunt build:dist --force
 - ls -lR dist/
