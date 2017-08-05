@@ -14,7 +14,7 @@ install:
 - travis_retry bower install
 - travis_retry npm rebuild node-sass
 script:
-- grunt build:dist --force
+- grunt build:dist
 - ls -lR dist/
 deploy:
 - provider: pages
