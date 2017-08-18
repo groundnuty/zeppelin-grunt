@@ -1,6 +1,6 @@
 # Site Settings
 title: "Workshop on Cloud Services for Synchronisation and Sharing 2018"
-email: "cs3-surfnet2018@cern.ch"
+email: "cs3-cyfronet2018@cern.ch"
 description: "Workshop on Cloud Services for Synchronisation and Sharing"
 enablePreloader: false
 
@@ -16,7 +16,7 @@ themeColor: "#03a9f4"
 organizerName: "GDG Lviv"
 organizerAlternateName: "Google Developer Group Lviv"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "cs3-surfnet2018@cern.ch"
+organizerEmail: "cs3-cyfronet2018@cern.ch"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://www.example.com"
 
