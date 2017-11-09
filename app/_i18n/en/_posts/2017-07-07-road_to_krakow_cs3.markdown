@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "What is the workshop about?"
-date: 2017-07-07 09:00:00
+title: "Road to CS3 Krakow"
+date: 2017-07-06 09:00:00
 isStaticPost: false
 ---
 

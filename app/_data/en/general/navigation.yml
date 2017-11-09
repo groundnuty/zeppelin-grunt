@@ -1,14 +1,14 @@
 links:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/blog/what-is-the-worhskop-about", text: "About this workshop"}
+ - {permalink: "/blog/what-is-the-workshop-about", text: "About this workshop"}
  - {permalink: "/blog/call-for-abstracts", text: "Call for Abstracts"}
 
 #  - {permalink: "/schedule/", text: "Schedule"}
 #  - {permalink: "/speakers/", text: "Speakers"}
 #  - {permalink: "/team/", text: "Team"}
 #  - {permalink: "/logistics/", text: "Logistics"}
-#  - {permalink: "/hackathon/", text: "Hackathon"}
+#  - {permalink: "/hackathon/", text: "Hackathon"}z
  - 
    subText: "Previous Workshops"
    links:
